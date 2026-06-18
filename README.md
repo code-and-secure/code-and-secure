@@ -141,7 +141,7 @@ Status   : Open to opportunities [ACTIVE]
 
 ### 📌 Featured Projects
 
-> 💡 Check my **pinned repositories** below — always up to date with my latest work.
+> 💡 Repositories vary between public and private depending on project sensitivity — feel free to explore what's available.
 
 </div>
 
