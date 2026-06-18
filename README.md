@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=🚀+Designing+Cloud-Native+Infrastructure+at+Scale;⚙️+Automating+Deployments+with+CI%2FCD+Pipelines;🛡️+Building+Secure+%26+Resilient+Platform+Systems;🔁+Practicing+SRE+%7C+Zero-Downtime+%7C+Self-Healing;📊+Observability+%7C+Monitoring+%7C+Incident+Response)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=☁️+Cloud+Engineer;⚙️+DevOps+Engineer;🏗️+Platform+Engineer;🔁+Site+Reliability+Engineer;🤖+Prompt+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
