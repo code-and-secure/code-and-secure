@@ -9,7 +9,7 @@
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/🟢_Status-Open%20to%20Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/🎯_Focus-Cloud%20%7C%20DevOps%20%7C%20SRE-blueviolet?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/🎯_Focus-Cloud%20%7C%20DevOps%20%7C%20Platform%20%7C%20SRE-blueviolet?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
