@@ -6,16 +6,16 @@
 
 ```bash
 zeeshan@portfolio:~$ whoami
-Zeeshan Khaliq — Cloud | DevOps | Platform | SRE Engineer
+Zeeshan Khaliq -- Cloud | DevOps | Platform | SRE Engineer
 
 zeeshan@portfolio:~$ cat about.txt
-→ Building self-healing systems & autonomous release platforms
-→ Passionate about cloud-native architecture & SRE practices
-→ Exploring AI/LLM integration with DevOps automation
-→ Open to Cloud | DevOps | Platform | SRE opportunities
+-> Building self-healing systems + autonomous release platforms
+-> Passionate about cloud-native architecture + SRE practices
+-> Exploring AI/LLM integration with DevOps automation
+-> Open to Cloud | DevOps | Platform | SRE opportunities
 
 zeeshan@portfolio:~$ echo $STATUS
-Open to opportunities ●
+Open to opportunities [ACTIVE]
 ```
 
 ---
