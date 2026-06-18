@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0078D4,100:0D1117&height=200&section=header&text=Zeeshan%20Khaliq&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cloud%20%7C%20DevOps%20%7C%20Platform%20%7C%20SRE%20Engineer&descAlignY=62&descColor=00D4FF&descSize=20&stroke=00D4FF&strokeWidth=1" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 <br/>
 
