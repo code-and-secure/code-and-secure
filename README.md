@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=☁️+Cloud+Engineer;⚙️+DevOps+Engineer;🏗️+Platform+Engineer;🔁+Site+Reliability+Engineer;🤖+Prompt+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=☁️+Cloud+Engineer;⚙️+DevOps+Engineer;🏗️+Platform+Engineer;🔁+Site+Reliability+Engineer;🤖+Prompt+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,6 +28,18 @@ Focus    : Cloud · DevOps · SRE · IaC · CI/CD · Containers · Observability
 Passion  : Automate everything. Secure everything. Scale everything.
 Status   : Open to opportunities [ACTIVE]
 ```
+
+---
+
+<div align="center">
+
+### 💡 My Engineering Philosophy
+
+</div>
+
+> I don't just manage infrastructure — I build systems that **think, heal, and scale on their own.**
+> Every pipeline I design aims for zero downtime. Every platform I build is secure by default.
+> I believe the best DevOps work is the kind nobody notices — because everything just works.
 
 ---
 
@@ -127,36 +139,11 @@ Status   : Open to opportunities [ACTIVE]
 
 <div align="center">
 
-### 🚀 What I Build
-
-</div>
-
-| Area | What I Do |
-|------|-----------|
-| ☁️ Cloud Infrastructure | Design and manage scalable cloud environments on Azure, AWS, and OCI |
-| ⚙️ DevOps Automation | Build end-to-end CI/CD pipelines that ship code fast and safely |
-| 🐳 Platform Engineering | Architect container platforms using Kubernetes, Helm, and Rancher |
-| 📊 SRE & Reliability | Define SLOs, reduce MTTR, and implement self-healing systems |
-| 🔐 Security | Integrate OWASP, SonarQube, and hardening practices into pipelines |
-| 🤖 AI & Automation | Leverage LLMs and Prompt Engineering to automate DevOps workflows |
-
----
-
-<div align="center">
-
 ### 📌 Featured Projects
 
-> 💡 My pinned repositories below are always up to date — each one solves a real infrastructure or automation problem.
+> 💡 Check my **pinned repositories** below — always up to date with my latest work.
 
 </div>
-
-| 🏷️ Category | 💡 What to Expect |
-|-------------|-------------------|
-| 🔧 Self-Healing Systems | Automated failure detection and recovery without human intervention |
-| 🤖 AI-Powered DevOps | LLM and RAG integrations inside DevOps workflows |
-| 🚀 Release Orchestration | Autonomous multi-environment deployment pipelines |
-| 🔍 Infrastructure Discovery | Tools to map and audit distributed infrastructure |
-| 📋 Security Auditing | Automated server compliance and security reporting |
 
 ---
 
