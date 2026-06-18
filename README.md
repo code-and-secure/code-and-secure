@@ -4,18 +4,18 @@
 
 </div>
 
-```bash
+```
 zeeshan@portfolio:~$ whoami
 Zeeshan Khaliq -- Cloud | DevOps | Platform | SRE Engineer
 
 zeeshan@portfolio:~$ cat about.txt
--> Building self-healing systems + autonomous release platforms
--> Passionate about cloud-native architecture + SRE practices
--> Exploring AI/LLM integration with DevOps automation
--> Open to Cloud | DevOps | Platform | SRE opportunities
+  Building self-healing systems and autonomous release platforms
+  Passionate about cloud-native architecture and SRE practices
+  Exploring AI/LLM integration with DevOps automation
+  Open to Cloud | DevOps | Platform | SRE opportunities
 
 zeeshan@portfolio:~$ echo $STATUS
-Open to opportunities [ACTIVE]
+  Open to opportunities [ACTIVE]
 ```
 
 ---
@@ -100,6 +100,16 @@ Open to opportunities [ACTIVE]
 
 ---
 
+### 🤖 AI & Prompt Engineering
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Ops](https://img.shields.io/badge/LLM_Ops-00A67E?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-6B48FF?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
 ### 🖥️ Systems & Web Servers
 
 ![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -137,13 +147,3 @@ Open to opportunities [ACTIVE]
 ---
 
 <div align="center">
-
-```
-"Automate everything. Secure everything. Scale everything."
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=code-and-secure&color=00D4FF&style=flat-square&label=Profile+Views)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" width="100%"/>
