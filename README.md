@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zeeshan%20Khaliq&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Platform%20%7C%20SRE%20Engineer&descAlignY=58&descColor=a0d8ef&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0078D4,100:0D1117&height=200&section=header&text=Zeeshan%20Khaliq&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cloud%20%7C%20DevOps%20%7C%20Platform%20%7C%20SRE%20Engineer&descAlignY=62&descColor=00D4FF&descSize=20&stroke=00D4FF&strokeWidth=1" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Self-Healing+Systems+%F0%9F%94%A7;Automating+Cloud+Infrastructure+%E2%9A%99%EF%B8%8F;Open+to+Cloud+%7C+DevOps+%7C+SRE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=🚀+Designing+Cloud-Native+Infrastructure+at+Scale;⚙️+Automating+Deployments+with+CI%2FCD+Pipelines;🛡️+Building+Secure+%26+Resilient+Platform+Systems;🔁+Practicing+SRE+%7C+Zero-Downtime+%7C+Self-Healing;📊+Observability+%7C+Monitoring+%7C+Incident+Response)](https://git.io/typing-svg)
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117)
-![Engineer](https://img.shields.io/badge/%F0%9F%93%8D%20Based%20In-Pakistan-white?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-Cloud%20%7C%20DevOps%20%7C%20SRE-blueviolet?style=for-the-badge&labelColor=0D1117)
+![Open to Work](https://img.shields.io/badge/🟢_Status-Open%20to%20Opportunities-00D4FF?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/🎯_Focus-Cloud%20%7C%20DevOps%20%7C%20SRE-blueviolet?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -25,8 +24,8 @@
 ```yaml
 Name     : Zeeshan Khaliq
 Role     : Cloud | DevOps | Platform | SRE Engineer
-Focus    : Cloud-Native Architecture, Self-Healing Systems, SRE
-Passion  : Automating everything, securing everything, scaling everything
+Focus    : Cloud · DevOps · SRE · IaC · CI/CD · Containers · Observability · AI Ops · Prompt Engineering
+Passion  : Automate everything. Secure everything. Scale everything.
 Status   : Open to opportunities [ACTIVE]
 ```
 
@@ -122,11 +121,24 @@ Status   : Open to opportunities [ACTIVE]
 <img src="https://github-readme-stats.vercel.app/api?username=code-and-secure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&border_radius=10" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-and-secure&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E&border_radius=10" height="165"/>
 
-<br/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=code-and-secure&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&border_radius=10)
+---
+
+<div align="center">
+
+### 🚀 What I Build
 
 </div>
+
+| Area | What I Do |
+|------|-----------|
+| ☁️ Cloud Infrastructure | Design and manage scalable cloud environments on Azure, AWS, and OCI |
+| ⚙️ DevOps Automation | Build end-to-end CI/CD pipelines that ship code fast and safely |
+| 🐳 Platform Engineering | Architect container platforms using Kubernetes, Helm, and Rancher |
+| 📊 SRE & Reliability | Define SLOs, reduce MTTR, and implement self-healing systems |
+| 🔐 Security | Integrate OWASP, SonarQube, and hardening practices into pipelines |
+| 🤖 AI & Automation | Leverage LLMs and Prompt Engineering to automate DevOps workflows |
 
 ---
 
@@ -134,9 +146,17 @@ Status   : Open to opportunities [ACTIVE]
 
 ### 📌 Featured Projects
 
-> 💡 Check my **pinned repositories** below — always up to date with my latest work.
+> 💡 My pinned repositories below are always up to date — each one solves a real infrastructure or automation problem.
 
 </div>
+
+| 🏷️ Category | 💡 What to Expect |
+|-------------|-------------------|
+| 🔧 Self-Healing Systems | Automated failure detection and recovery without human intervention |
+| 🤖 AI-Powered DevOps | LLM and RAG integrations inside DevOps workflows |
+| 🚀 Release Orchestration | Autonomous multi-environment deployment pipelines |
+| 🔍 Infrastructure Discovery | Tools to map and audit distributed infrastructure |
+| 📋 Security Auditing | Automated server compliance and security reporting |
 
 ---
 
@@ -145,12 +165,12 @@ Status   : Open to opportunities [ACTIVE]
 [![GitHub](https://img.shields.io/badge/GitHub-code--and--secure-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code-and-secure)
 [![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-00D4FF?style=for-the-badge&logoColor=white)]()
 
-<br/>
+<br/><br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=code-and-secure&color=00D4FF&style=flat-square&label=Profile+Views)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
