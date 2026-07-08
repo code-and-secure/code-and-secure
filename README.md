@@ -51,7 +51,9 @@ Status   : Open to opportunities [ACTIVE]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,oracle,kubernetes,docker,terraform,ansible,jenkins,githubactions,gitlab,git,github&perline=12" />
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,gitlab,git,github&perline=11" />
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 <br/>
 
@@ -61,13 +63,17 @@ Status   : Open to opportunities [ACTIVE]
 
 <br/>
 
-- **🐳 Containers & Orchestration** — also Podman, Helm, Rancher
-- **⚙️ Infrastructure & IaC** — also Chef, VMware
-- **🔄 CI/CD Pipelines** — also Azure DevOps, AWS CodePipeline, ArgoCD
-- **📊 Monitoring & Observability** — also Nagios, New Relic
-- **🔐 Security & Code Quality** — SonarQube, OWASP ZAP
-- **🗄️ Databases** — also MariaDB
-- **🤖 AI & Prompt Engineering** — Prompt Engineering, LLM Ops, RAG Systems, ChatGPT, Claude AI
+<div align="center">
+
+🐳 **Containers & Orchestration** — also Podman, Helm, Rancher<br/>
+⚙️ **Infrastructure & IaC** — also Chef, VMware<br/>
+🔄 **CI/CD Pipelines** — also Azure DevOps, AWS CodePipeline, ArgoCD<br/>
+📊 **Monitoring & Observability** — also Nagios, New Relic<br/>
+🔐 **Security & Code Quality** — SonarQube, OWASP ZAP<br/>
+🗄️ **Databases** — also MariaDB<br/>
+🤖 **AI & Prompt Engineering** — Prompt Engineering, LLM Ops, RAG Systems, ChatGPT, Claude AI
+
+</div>
 
 <div align="center">
 
