@@ -102,8 +102,13 @@ Status   : Open to opportunities [ACTIVE]
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=code-and-secure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-and-secure&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E&border_radius=10" height="165"/>
+<img src="https://github-profile-summary-cards-amber.vercel.app/api/cards/stats?username=code-and-secure&theme=github_dark" height="200"/>
+<img src="https://github-profile-summary-cards-amber.vercel.app/api/cards/repos-per-language?username=code-and-secure&theme=github_dark" height="200"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards-amber.vercel.app/api/cards/most-commit-language?username=code-and-secure&theme=github_dark" height="200"/>
+<img src="https://github-profile-summary-cards-amber.vercel.app/api/cards/productive-time?username=code-and-secure&theme=github_dark&utcOffset=5" height="200"/>
 
 </div>
 
