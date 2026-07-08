@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer;%E2%9A%99%EF%B8%8F+DevOps+Engineer;%F0%9F%8F%97%EF%B8%8F+Platform+Engineer;%F0%9F%94%81+Site+Reliability+Engineer;%F0%9F%A4%96+AI%2FPrompt+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%E2%98%81%EF%B8%8F+Designing+Cloud+Infrastructure;%E2%98%B8%EF%B8%8F+Kubernetes+%26+Container+Platforms;%E2%9A%99%EF%B8%8F+Automating+Everything;%F0%9F%94%90+Security+Built+Into+Every+Pipeline;%F0%9F%93%8A+Monitoring+%26+Observability;%F0%9F%A4%96+AI+Meets+DevOps;%F0%9F%9A%80+Shipping+Faster%2C+Safer+%26+Smarter)](https://git.io/typing-svg)
 
 <br/>
 
@@ -51,9 +51,7 @@ Status   : Open to opportunities [ACTIVE]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,gitlab,git,github&perline=11" />
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,gitlab,git,github&perline=11" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Cloud" width="48" height="48" style="padding:2px;" />
 
 <br/>
 
