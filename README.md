@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=☁️+Cloud+Engineer;⚙️+DevOps+Engineer;🏗️+Platform+Engineer;🔁+Site+Reliability+Engineer;🤖+Prompt+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer;%E2%9A%99%EF%B8%8F+DevOps+Engineer;%F0%9F%8F%97%EF%B8%8F+Platform+Engineer;%F0%9F%94%81+Site+Reliability+Engineer;%F0%9F%A4%96+AI%2FPrompt+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,80 +49,48 @@ Status   : Open to opportunities [ACTIVE]
 
 </div>
 
-**☁️ Cloud Platforms**
+<div align="center">
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,aws,oracle,kubernetes,docker,terraform,ansible,jenkins,githubactions,gitlab,git,github&perline=12" />
 
-**🐳 Containers & Orchestration**
+<br/>
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes_k3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kafka,prometheus,grafana,elasticsearch,postgres,mysql,python,bash,powershell,ts,js,linux,nginx&perline=13" />
+
+</div>
+
+<br/>
+
+- **🐳 Containers & Orchestration** — also Podman, Helm, Rancher
+- **⚙️ Infrastructure & IaC** — also Chef, VMware
+- **🔄 CI/CD Pipelines** — also Azure DevOps, AWS CodePipeline, ArgoCD
+- **📊 Monitoring & Observability** — also Nagios, New Relic
+- **🔐 Security & Code Quality** — SonarQube, OWASP ZAP
+- **🗄️ Databases** — also MariaDB
+- **🤖 AI & Prompt Engineering** — Prompt Engineering, LLM Ops, RAG Systems, ChatGPT, Claude AI
+
+<div align="center">
+
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
-
-**⚙️ Infrastructure & IaC**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Chef](https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=chef&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-**🔄 CI/CD Pipelines**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-**📨 Messaging & Streaming**
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-**📊 Monitoring & Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
-
-**🔐 Security & Code Quality**
-
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-**💻 Scripting & Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**🤖 AI & Prompt Engineering**
-
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
 ![LLM Ops](https://img.shields.io/badge/LLM_Ops-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-6B48FF?style=flat-square&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
-**🖥️ Systems & Web Servers**
-
-![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+</div>
 
 ---
 
